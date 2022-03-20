@@ -1,6 +1,10 @@
 # Batalla Naval
 Batalla Naval o Hundir la Flota, un juego de mesa tradicional de estrategia.
 
+![](IMAGES/batalla-naval.jpg)
+
+Imagen recuperada de: https://asisejuega.com/juegos-de-mesa/batalla-naval/
+
 Repositorio que contiene el emocinante juedo de estrategia Batalla Naval o Hundir la Flota, esto se llevo a cabo gracias todo lo aprendido antes y durante el modúlo de Python del Bootcamp Data Science en The Bridge. Dicho juego se encuentra en la carpeta 'BATALLA NAVAL', que este esta compuesto por scripts de python, funciones, clases, variables y el principal o main (donde se ejecuta el juego).
 
 Además, utilizar bulces for, whiles, creación de funciones y condicionales, utilice clases (para instanciar los Tableros y Barcos), librerías como numpy para la matriz de los tableros, también di uso a la librería random, principalmente para la selección de las coordenadas de la máquina, ya que ese será el adversario a derrotar. Por otro lado, para una fácil interacción usuario-juego, utilice librerías como tkinter y easygui para el uso de ventanas emergentes en donde el jugador pueda ser notificado e ingresar los valores según la etapa del juego, respectivamente. Al ejecutar el script main.py, en donde aparecerá el menú del juego con varias opciones, como por ejemplo 'Instrucciones', en que recomiendo ver antes de comenzar el juego.
