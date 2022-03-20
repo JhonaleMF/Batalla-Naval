@@ -1,7 +1,8 @@
 # Batalla Naval
 Batalla Naval o Hundir la Flota, un juego de mesa tradicional de estrategia.
 
-![](IMAGES/batalla-naval.jpg)
+<p align="center">
+<img src="IMAGES/batalla-naval.jpg" widht="300" height="300">
 
 Imagen recuperada de: https://asisejuega.com/juegos-de-mesa/batalla-naval/
 
